@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "vendor"
+		},
+		{
+			"path": "route"
+		},
+		{
+			"path": "runtime"
+		},
+		{
+			"path": "runtime_cli"
+		},
+		{
+			"path": "public"
+		},
+		{
+			"path": "app"
+		},
+		{
+			"path": "config"
+		}
+	]
+}
