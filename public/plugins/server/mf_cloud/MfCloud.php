@@ -29,7 +29,7 @@ class MfCloud
 	 */
 	public function metaData(): array
     {
-		return ['display_name'=>'魔方云(自定义配置)', 'version'=>'3.0.2'];
+		return ['display_name'=>'魔方云', 'version'=>'3.0.2'];
 	}
 
 	/**
